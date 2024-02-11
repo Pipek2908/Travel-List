@@ -1,3 +1,3 @@
-# Use popcorn
+# Travel List REACT
 
 Travel List
